@@ -1,0 +1,416 @@
+/* .bord2{
+    border: 2px solid red;
+   } */
+
+.buttonbck {
+    background-color: blue;
+}
+
+
+.nav {
+    background-color: rgb(110, 142, 142);
+    /* margin-left: 90px;
+    margin-right: 90px; */
+    padding: 10px;
+
+
+
+}
+
+.pic {
+    height: 600px;
+    width: 500px;
+
+}
+
+.icon {
+    font-size: 50px;
+    border: solid brown;
+    border-radius: 60px;
+    padding: 30px;
+    color: darkslategray;
+
+
+}
+
+.icon:hover {
+    color: brown;
+}
+
+
+.homenav {
+    color: white;
+    font-weight: bold;
+    font-size: 23px;
+
+}
+
+.homenav:hover {
+    /* background-color: rgb(246, 182, 64);
+    border-radius: 5px; */
+    color: orange;
+}
+
+
+.hrline {
+    margin-left: 680px;
+    margin-right: 680px;
+
+
+}
+
+.hrline2 {
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.firstbut {
+    color: white;
+    background-color: darkslategray;
+}
+
+.firstbut:hover {
+    color: white;
+    background-color: rgb(246, 182, 64);
+}
+
+.bof {
+    padding: 10px;
+    background-color: rgb(252, 251, 251);
+    transition: all 0.1s;
+}
+
+.bof:hover {
+    box-shadow: 0 0 15px 2px rgb(177, 183, 183);
+}
+
+.firstbutend {
+    color: white;
+    background-color: brown;
+    border-radius: 10px;
+    border: solid darkslategray;
+}
+
+.firstbutend:hover {
+    color: white;
+    background-color: darkslategray;
+}
+
+.btk1 {
+    margin-left: 50px;
+}
+
+.div {
+    background-color: rgb(78, 98, 97);
+    padding: 50px;
+}
+
+.lastdiv {
+    height: 300px;
+    width: 400px;
+}
+
+.hk {
+    transition: all 0.5s ease-in;
+    transform: scale(0.9);
+}
+
+.hk:hover {
+    transition: all 0.5s ease-in;
+    box-shadow: 0 0 20px;
+
+}
+
+/* LASTICONS */
+
+.butonicon {
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    margin: 10px;
+    font-size: 25px;
+
+
+}
+
+.butonicon:hover {
+    background-color: #ff5f2e;
+}
+
+.backk {
+    background-color: rgb(241, 241, 239);
+    border-color: rgb(241, 241, 239);
+}
+
+
+/* Tracking page */
+
+.but {
+    background-color: cadetblue;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    width: 130px;
+}
+
+.but:hover {
+    background-color: rgb(246, 182, 64);
+}
+
+.inbackground {
+    background-color: whitesmoke;
+    font-size: 25px;
+    padding: 5px;
+    margin: 10px;
+
+
+}
+
+.inbackground:hover {
+    background-color: white;
+    border-block-color: orange;
+
+}
+
+
+.card {
+    background-color: white;
+    border-radius: 1px;
+    border-color: white;
+}
+
+
+
+
+/* CONTACT US */
+
+.maininpu {
+    width: 400px;
+    height: 40px;
+    background-color: white;
+    width: 100%;
+    border-radius: 5px;
+    border-color: white;
+
+}
+
+/* .maininpu:hover {
+    background-color: white;
+    border-color: white;
+} */
+
+.smsbut {
+    background-color: cadetblue;
+    padding: 5px;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    width: 130px;
+    margin-bottom: 10px;
+
+}
+
+.smsbut:hover {
+    background-color: orange;
+
+}
+
+.icons {
+    color: orange;
+}
+
+.mainsms {
+    height: 170px;
+    width: 400px;
+    width: 100%;
+    border-radius: 5px;
+    padding-bottom: 130px;
+    background-color: white;
+    border-color: white;
+}
+
+/* .mainsms:hover {
+    background-color: white;
+    border-color: white;
+} */
+
+
+
+/* ABOUT US */
+
+.butt22 {
+    background-color: white;
+    color: black;
+    padding: 15px;
+    margin-right: 30px;
+    border-radius: 5px;
+
+}
+
+.butt22:hover {
+    background-color: #ff5f2e;
+    color: white;
+}
+
+.butt1 {
+    background-color: white;
+    color: black;
+    padding: 15px;
+    margin-right: 30px;
+    border-radius: 5px;
+
+}
+
+.butt1:hover {
+    background-color: #004e66;
+    color: white;
+}
+
+
+.butt2 {
+    background-color: #ff5f2e;
+    color: #004e66;
+    padding: 15px;
+}
+
+.butt2:hover {
+    color: orange;
+    border-color: orange;
+}
+
+
+
+
+
+
+/* HOME */
+
+.butt10 {
+    background-color: #004e66;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.butt10:hover {
+    background-color: orange;
+    color: white;
+}
+
+.wwt {
+    width: 100%;
+    text-align: center;
+}
+
+.butt20 {
+    background-color: orange;
+    color: white;
+    padding: 15px;
+    margin-right: 30px;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.butt20:hover {
+    background-color: #004e66;
+    color: white;
+}
+
+.butt30 {
+    background-color: #004e66;
+    color: white;
+    padding: 15px;
+    margin-right: 30px;
+    border-radius: 5px;
+
+}
+
+.butt30:hover {
+    background-color: orange;
+    color: white
+}
+
+.homimg {
+    height: 320px;
+    width: 450px;
+    padding: 20px;
+    width: 100%;
+}
+
+
+.but1 {
+    color: rgb(78, 77, 77);
+    font-size: 35px;
+    position: relative;
+    transition: all 0.5s;
+}
+
+.but1:hover {
+    color: #004e66;
+}
+
+.but1::after {
+    content: '';
+    height: 5px;
+    width: 3%;
+    position: absolute;
+    background-color: #004e66;
+    left: 0;
+    bottom: -17px;
+    opacity: 1;
+    transition: all 0.2s;
+}
+
+.but1:hover::after {
+    opacity: 1;
+    width: 20%;
+}
+
+
+.rotate {
+    /* height: 300px;
+    width: 300px; */
+    /* transition: width 5s, height 5s ease; */
+    transition: transform 2s, width 4s, height 4s ease;
+
+}
+
+.rotate:hover {
+    /* height: 600px;
+    width: 600px; */
+    /* transform: translateX(200px);
+    transform: translateY(400px); */
+    transform: rotate(100deg);
+
+}
+
+
+
+
+
+/* SERVICES */
+
+.butt40 {
+    background-color: #ff5f2e;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+
+.butt40:hover {
+    background-color: #004e66;
+    color: white;
+}
+
+.readmoreimg {
+    height: 270px;
+    width: 500px;
+
+}
